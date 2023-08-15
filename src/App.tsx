@@ -1,7 +1,8 @@
+import Sidebar from "./components/Sidebar";
 const App = () => {
   return (
     <div className="App">
-      <h1>Listing Test</h1>
+      <Sidebar />
     </div>
   );
 };
