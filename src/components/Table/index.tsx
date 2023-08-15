@@ -24,8 +24,8 @@ const CustomTable: React.FC = () => {
       style={{
         borderRadius: 8,
         boxShadow: "0 2px 4px rgba(0, 0, 0, 0.1)",
-        width: "85%",
-        marginLeft: "14%",
+        width: "98.6%",
+        marginBottom: "20px",
       }}
     >
       <Table>
