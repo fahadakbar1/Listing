@@ -1,7 +1,7 @@
 import "./index.scss";
 import DashboardIcon from "@mui/icons-material/Dashboard";
 import { Sidebar, SubMenu, Menu, MenuItem } from "react-pro-sidebar";
-function OurSidebar() {
+function OurSidebar(): JSX.Element {
   return (
     <Sidebar style={{ height: "100%", position: "absolute" }} collapsed={false}>
       <div className="menu-wrapper">
